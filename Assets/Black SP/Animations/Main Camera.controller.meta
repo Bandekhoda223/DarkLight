@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4a95f25904f3d1f429fc13cf116aa9de
+timeCreated: 1449075475
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51219
+  packageName: Dark Space 2D Pack
+  packageVersion: 2.1
+  assetPath: Assets/Black SP/Animations/Main Camera.controller
+  uploadId: 516529

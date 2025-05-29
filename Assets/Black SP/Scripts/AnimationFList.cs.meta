@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 71fe455c5b155f144a24c732b5cb6e38
+timeCreated: 1472135932
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51219
+  packageName: Dark Space 2D Pack
+  packageVersion: 2.1
+  assetPath: Assets/Black SP/Scripts/AnimationFList.cs
+  uploadId: 516529

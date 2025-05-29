@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ecfe0ebb500ca44da674d3bd71a848f
+timeCreated: 1449074673
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51219
+  packageName: Dark Space 2D Pack
+  packageVersion: 2.1
+  assetPath: Assets/Black SP/Animations/pendulum.anim
+  uploadId: 516529
