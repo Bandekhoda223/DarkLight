@@ -1,15 +1,16 @@
 using UnityEngine;
-using UnityEngine.Rendering;
-using UnityEngine.Rendering.Universal;
+using UnityEngine.UI;
 
 public class PlayerHealth : MonoBehaviour
 {
+    [Header("Health Settings")]
     public int maxHealth = 100;
-    public float recoveryDelay = 3f;
-    public float recoveryRate = 5f;
+    public float recoveryDelay = 3f;       // چند ثانیه بعد از آخرین دمیج ریکاوری شروع بشه
+    public float recoveryRate = 5f;        // چند واحد جون بر ثانیه پر بشه
+    private float recoveryBuffer = 0f;
 
-    public Volume postProcessingVolume;
-    private ColorAdjustments colorAdjustments;
+    [Header("UI Overlay")]
+    public Image darkOverlay;              // رفرنس به لایه مشکی UI
 
     private int currentHealth;
     private float lastDamageTime;
@@ -17,50 +18,57 @@ public class PlayerHealth : MonoBehaviour
     void Start()
     {
         currentHealth = maxHealth;
-
-        if (postProcessingVolume != null &&
-            postProcessingVolume.profile.TryGet(out colorAdjustments))
-        {
-            Debug.Log("[Start] Color Adjustments found.");
-            UpdateExposure();
-        }
-        else
-        {
-            Debug.LogWarning("[Start] Color Adjustments NOT found.");
-        }
+        UpdateOverlay();
     }
 
     void Update()
     {
-        if (Time.time - lastDamageTime >= recoveryDelay && currentHealth < maxHealth)
-        {
-            int previous = currentHealth;
-            currentHealth += Mathf.RoundToInt(recoveryRate * Time.deltaTime);
-            currentHealth = Mathf.Min(currentHealth, maxHealth);
-
-            if (currentHealth != previous)
-            {
-                UpdateExposure();
-            }
-        }
+        TryRecover();
     }
 
     public void TakeDamage(int amount)
     {
         currentHealth -= amount;
         currentHealth = Mathf.Max(currentHealth, 0);
+
         lastDamageTime = Time.time;
-        UpdateExposure();
+
+        UpdateOverlay();
         Debug.Log($"[Damage] Health: {currentHealth}");
     }
 
-    void UpdateExposure()
+    private void TryRecover()
     {
-        if (colorAdjustments != null)
+        if (currentHealth < maxHealth && Time.time - lastDamageTime >= recoveryDelay)
+    {
+        recoveryBuffer += recoveryRate * Time.deltaTime;
+
+        Debug.Log($"[Recovery] Buffer: {recoveryBuffer} (Rate: {recoveryRate})");
+            if (recoveryBuffer >= 1f)
+            {
+
+                int healthToAdd = Mathf.FloorToInt(recoveryBuffer);
+                recoveryBuffer -= healthToAdd;
+                Debug.Log($"[Recovering] Buffer: {recoveryBuffer} (Adding: {healthToAdd})");
+                currentHealth += healthToAdd;
+                currentHealth = Mathf.Min(currentHealth, maxHealth);
+                Debug.Log($"[Recovering] Current Health: {currentHealth} (Max: {maxHealth})");
+                UpdateOverlay();
+                Debug.Log($"[Recovering] +{healthToAdd} → Health: {currentHealth}");
+            }
+    }
+    }
+
+    private void UpdateOverlay()
+    {
+        if (darkOverlay != null)
         {
-            float t = 1f - ((float)currentHealth / maxHealth); // چقدر تاریک بشه
-            colorAdjustments.postExposure.value = Mathf.Lerp(0f, -2.5f, t); // نور کمتر
-            Debug.Log($"[Exposure] Set to {colorAdjustments.postExposure.value}");
+            float t = 1f - ((float)currentHealth / maxHealth); // t = درصد آسیب
+            Color c = darkOverlay.color;
+            c.a = Mathf.Lerp(0f, 0.6f, t);                     // نور صفحه کم یا زیاد شه
+            darkOverlay.color = c;
+
+            Debug.Log($"[Overlay] Alpha set to: {c.a}");
         }
     }
 }
