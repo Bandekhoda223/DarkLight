@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      transition to charge_0: 2760227754093313860
+      transition to charge_1: 3399018844672691323
+      transition to charge_2: 8112291295429231078
+      transition to charge_3: 3004835204586893775
+      transition to charge_4: -3624993841743066425
+      transition to charge_5: 5939191378339808340
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
