@@ -1,0 +1,5880 @@
+fileFormatVersion: 2
+guid: fb3cb6bf93c8011419c1dddb194fc6e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7287901271243905073
+    second: apocalypse tiles TRANSPARENT v1.1.0_0
+  - first:
+      213: 5256187359924995627
+    second: apocalypse tiles TRANSPARENT v1.1.0_1
+  - first:
+      213: -2070646525285420748
+    second: apocalypse tiles TRANSPARENT v1.1.0_2
+  - first:
+      213: 9063586213995348807
+    second: apocalypse tiles TRANSPARENT v1.1.0_3
+  - first:
+      213: 8343543646070171129
+    second: apocalypse tiles TRANSPARENT v1.1.0_4
+  - first:
+      213: -654368666667128724
+    second: apocalypse tiles TRANSPARENT v1.1.0_5
+  - first:
+      213: 595576324839959836
+    second: apocalypse tiles TRANSPARENT v1.1.0_6
+  - first:
+      213: 3087691588188560456
+    second: apocalypse tiles TRANSPARENT v1.1.0_7
+  - first:
+      213: -1994868910183711254
+    second: apocalypse tiles TRANSPARENT v1.1.0_8
+  - first:
+      213: -5800781315478198641
+    second: apocalypse tiles TRANSPARENT v1.1.0_9
+  - first:
+      213: -4319980608409220538
+    second: apocalypse tiles TRANSPARENT v1.1.0_10
+  - first:
+      213: -7652788677050788878
+    second: apocalypse tiles TRANSPARENT v1.1.0_11
+  - first:
+      213: -959355532607452947
+    second: apocalypse tiles TRANSPARENT v1.1.0_12
+  - first:
+      213: 340662650302748392
+    second: apocalypse tiles TRANSPARENT v1.1.0_13
+  - first:
+      213: 1569603998879771583
+    second: apocalypse tiles TRANSPARENT v1.1.0_14
+  - first:
+      213: -8855186215547928033
+    second: apocalypse tiles TRANSPARENT v1.1.0_15
+  - first:
+      213: -6971726984934856320
+    second: apocalypse tiles TRANSPARENT v1.1.0_16
+  - first:
+      213: 6471287323753790176
+    second: apocalypse tiles TRANSPARENT v1.1.0_17
+  - first:
+      213: 3160993573362021363
+    second: apocalypse tiles TRANSPARENT v1.1.0_18
+  - first:
+      213: 4909640321610248631
+    second: apocalypse tiles TRANSPARENT v1.1.0_19
+  - first:
+      213: 1582662871637534419
+    second: apocalypse tiles TRANSPARENT v1.1.0_20
+  - first:
+      213: -1057591063558524247
+    second: apocalypse tiles TRANSPARENT v1.1.0_21
+  - first:
+      213: 8222468365802062571
+    second: apocalypse tiles TRANSPARENT v1.1.0_22
+  - first:
+      213: -7224372271884548065
+    second: apocalypse tiles TRANSPARENT v1.1.0_23
+  - first:
+      213: 1227503419110536541
+    second: apocalypse tiles TRANSPARENT v1.1.0_24
+  - first:
+      213: 6357933837818344926
+    second: apocalypse tiles TRANSPARENT v1.1.0_25
+  - first:
+      213: 322451714759016828
+    second: apocalypse tiles TRANSPARENT v1.1.0_26
+  - first:
+      213: 1229325265507102418
+    second: apocalypse tiles TRANSPARENT v1.1.0_27
+  - first:
+      213: -7920856412068917157
+    second: apocalypse tiles TRANSPARENT v1.1.0_28
+  - first:
+      213: -4392285346682896307
+    second: apocalypse tiles TRANSPARENT v1.1.0_29
+  - first:
+      213: 3945597475538253364
+    second: apocalypse tiles TRANSPARENT v1.1.0_30
+  - first:
+      213: -3864356210332549632
+    second: apocalypse tiles TRANSPARENT v1.1.0_31
+  - first:
+      213: -1061930488179280306
+    second: apocalypse tiles TRANSPARENT v1.1.0_32
+  - first:
+      213: -2286188338457015457
+    second: apocalypse tiles TRANSPARENT v1.1.0_33
+  - first:
+      213: -5426405985279274387
+    second: apocalypse tiles TRANSPARENT v1.1.0_34
+  - first:
+      213: -6054642029151548186
+    second: apocalypse tiles TRANSPARENT v1.1.0_35
+  - first:
+      213: 2942098533865941927
+    second: apocalypse tiles TRANSPARENT v1.1.0_36
+  - first:
+      213: -5042196491842052460
+    second: apocalypse tiles TRANSPARENT v1.1.0_37
+  - first:
+      213: 41626088950699706
+    second: apocalypse tiles TRANSPARENT v1.1.0_38
+  - first:
+      213: 4221724819162628537
+    second: apocalypse tiles TRANSPARENT v1.1.0_39
+  - first:
+      213: 5827076424224718142
+    second: apocalypse tiles TRANSPARENT v1.1.0_40
+  - first:
+      213: 8820308847838662068
+    second: apocalypse tiles TRANSPARENT v1.1.0_41
+  - first:
+      213: -1374319530907763157
+    second: apocalypse tiles TRANSPARENT v1.1.0_42
+  - first:
+      213: -6333794181101611364
+    second: apocalypse tiles TRANSPARENT v1.1.0_43
+  - first:
+      213: -5152259496734592069
+    second: apocalypse tiles TRANSPARENT v1.1.0_44
+  - first:
+      213: 5648713586249689258
+    second: apocalypse tiles TRANSPARENT v1.1.0_45
+  - first:
+      213: -1665611000054112205
+    second: apocalypse tiles TRANSPARENT v1.1.0_46
+  - first:
+      213: -7127426529934653109
+    second: apocalypse tiles TRANSPARENT v1.1.0_47
+  - first:
+      213: -6289365354974575166
+    second: apocalypse tiles TRANSPARENT v1.1.0_48
+  - first:
+      213: -4304079910863084327
+    second: apocalypse tiles TRANSPARENT v1.1.0_49
+  - first:
+      213: -4580521317084066076
+    second: apocalypse tiles TRANSPARENT v1.1.0_50
+  - first:
+      213: 2761950328549401461
+    second: apocalypse tiles TRANSPARENT v1.1.0_51
+  - first:
+      213: 5485777364077511584
+    second: apocalypse tiles TRANSPARENT v1.1.0_52
+  - first:
+      213: -4729975987884278244
+    second: apocalypse tiles TRANSPARENT v1.1.0_53
+  - first:
+      213: -3045082228094443379
+    second: apocalypse tiles TRANSPARENT v1.1.0_54
+  - first:
+      213: -5726504434260939359
+    second: apocalypse tiles TRANSPARENT v1.1.0_55
+  - first:
+      213: -572223775707570508
+    second: apocalypse tiles TRANSPARENT v1.1.0_56
+  - first:
+      213: -5516958162616477925
+    second: apocalypse tiles TRANSPARENT v1.1.0_57
+  - first:
+      213: -668853091294613147
+    second: apocalypse tiles TRANSPARENT v1.1.0_58
+  - first:
+      213: -6827773709976216971
+    second: apocalypse tiles TRANSPARENT v1.1.0_59
+  - first:
+      213: -3108824921846686789
+    second: apocalypse tiles TRANSPARENT v1.1.0_60
+  - first:
+      213: 951438676959559626
+    second: apocalypse tiles TRANSPARENT v1.1.0_61
+  - first:
+      213: -1269545811477487159
+    second: apocalypse tiles TRANSPARENT v1.1.0_62
+  - first:
+      213: 3286547586730809832
+    second: apocalypse tiles TRANSPARENT v1.1.0_63
+  - first:
+      213: -1184565790524530507
+    second: apocalypse tiles TRANSPARENT v1.1.0_64
+  - first:
+      213: 5978764225728020599
+    second: apocalypse tiles TRANSPARENT v1.1.0_65
+  - first:
+      213: 3818609946775873564
+    second: apocalypse tiles TRANSPARENT v1.1.0_66
+  - first:
+      213: -1862300945590858508
+    second: apocalypse tiles TRANSPARENT v1.1.0_67
+  - first:
+      213: 7769709022904484760
+    second: apocalypse tiles TRANSPARENT v1.1.0_68
+  - first:
+      213: 4718669867223935533
+    second: apocalypse tiles TRANSPARENT v1.1.0_69
+  - first:
+      213: -7396468374914608420
+    second: apocalypse tiles TRANSPARENT v1.1.0_70
+  - first:
+      213: 8926480702226601532
+    second: apocalypse tiles TRANSPARENT v1.1.0_71
+  - first:
+      213: 5722400137585795745
+    second: apocalypse tiles TRANSPARENT v1.1.0_72
+  - first:
+      213: -2809406243295822622
+    second: apocalypse tiles TRANSPARENT v1.1.0_73
+  - first:
+      213: 2915163610584094198
+    second: apocalypse tiles TRANSPARENT v1.1.0_74
+  - first:
+      213: 4747513996359917947
+    second: apocalypse tiles TRANSPARENT v1.1.0_75
+  - first:
+      213: 7977682912397306005
+    second: apocalypse tiles TRANSPARENT v1.1.0_76
+  - first:
+      213: 774759863991131657
+    second: apocalypse tiles TRANSPARENT v1.1.0_77
+  - first:
+      213: -3456291694045576241
+    second: apocalypse tiles TRANSPARENT v1.1.0_78
+  - first:
+      213: -914662030480040
+    second: apocalypse tiles TRANSPARENT v1.1.0_79
+  - first:
+      213: 7741661574359986659
+    second: apocalypse tiles TRANSPARENT v1.1.0_80
+  - first:
+      213: 5397915037352687987
+    second: apocalypse tiles TRANSPARENT v1.1.0_81
+  - first:
+      213: 554578661844380758
+    second: apocalypse tiles TRANSPARENT v1.1.0_82
+  - first:
+      213: 2692935325871277353
+    second: apocalypse tiles TRANSPARENT v1.1.0_83
+  - first:
+      213: -648252444650276118
+    second: apocalypse tiles TRANSPARENT v1.1.0_84
+  - first:
+      213: 4007149428887046765
+    second: apocalypse tiles TRANSPARENT v1.1.0_85
+  - first:
+      213: -2597240332118827284
+    second: apocalypse tiles TRANSPARENT v1.1.0_86
+  - first:
+      213: 7094661633732661844
+    second: apocalypse tiles TRANSPARENT v1.1.0_87
+  - first:
+      213: 5940083064868384622
+    second: apocalypse tiles TRANSPARENT v1.1.0_88
+  - first:
+      213: 4682858747588368343
+    second: apocalypse tiles TRANSPARENT v1.1.0_89
+  - first:
+      213: -786961864605678592
+    second: apocalypse tiles TRANSPARENT v1.1.0_90
+  - first:
+      213: -6055230955605107297
+    second: apocalypse tiles TRANSPARENT v1.1.0_91
+  - first:
+      213: 8599322565729604712
+    second: apocalypse tiles TRANSPARENT v1.1.0_92
+  - first:
+      213: -4462574582955945243
+    second: apocalypse tiles TRANSPARENT v1.1.0_93
+  - first:
+      213: -7057627688240894742
+    second: apocalypse tiles TRANSPARENT v1.1.0_94
+  - first:
+      213: 9197101021806444738
+    second: apocalypse tiles TRANSPARENT v1.1.0_95
+  - first:
+      213: 3439190921446941886
+    second: apocalypse tiles TRANSPARENT v1.1.0_96
+  - first:
+      213: 6749689684805138610
+    second: apocalypse tiles TRANSPARENT v1.1.0_97
+  - first:
+      213: 1299513658618765148
+    second: apocalypse tiles TRANSPARENT v1.1.0_98
+  - first:
+      213: 9163389899469225012
+    second: apocalypse tiles TRANSPARENT v1.1.0_99
+  - first:
+      213: -6168805003975848834
+    second: apocalypse tiles TRANSPARENT v1.1.0_100
+  - first:
+      213: 3885361230308107157
+    second: apocalypse tiles TRANSPARENT v1.1.0_101
+  - first:
+      213: 6911270541750252977
+    second: apocalypse tiles TRANSPARENT v1.1.0_102
+  - first:
+      213: 7638643172471368357
+    second: apocalypse tiles TRANSPARENT v1.1.0_103
+  - first:
+      213: -397678843539691024
+    second: apocalypse tiles TRANSPARENT v1.1.0_104
+  - first:
+      213: 1423557254601193955
+    second: apocalypse tiles TRANSPARENT v1.1.0_105
+  - first:
+      213: -2507847296112193792
+    second: apocalypse tiles TRANSPARENT v1.1.0_106
+  - first:
+      213: -93865830811669436
+    second: apocalypse tiles TRANSPARENT v1.1.0_107
+  - first:
+      213: -8801521366400844931
+    second: apocalypse tiles TRANSPARENT v1.1.0_108
+  - first:
+      213: -8092217334607580442
+    second: apocalypse tiles TRANSPARENT v1.1.0_109
+  - first:
+      213: 1874974680431895374
+    second: apocalypse tiles TRANSPARENT v1.1.0_110
+  - first:
+      213: -3733655279093766462
+    second: apocalypse tiles TRANSPARENT v1.1.0_111
+  - first:
+      213: 4852683753481723096
+    second: apocalypse tiles TRANSPARENT v1.1.0_112
+  - first:
+      213: 6368987369073005229
+    second: apocalypse tiles TRANSPARENT v1.1.0_113
+  - first:
+      213: -6556617427204593382
+    second: apocalypse tiles TRANSPARENT v1.1.0_114
+  - first:
+      213: 3785274463014252958
+    second: apocalypse tiles TRANSPARENT v1.1.0_115
+  - first:
+      213: 4809258463277570099
+    second: apocalypse tiles TRANSPARENT v1.1.0_116
+  - first:
+      213: 726756495342755545
+    second: apocalypse tiles TRANSPARENT v1.1.0_117
+  - first:
+      213: -2630809140295121308
+    second: apocalypse tiles TRANSPARENT v1.1.0_118
+  - first:
+      213: 3926285687506254264
+    second: apocalypse tiles TRANSPARENT v1.1.0_119
+  - first:
+      213: -4015786862771486107
+    second: apocalypse tiles TRANSPARENT v1.1.0_120
+  - first:
+      213: 8589319897165374225
+    second: apocalypse tiles TRANSPARENT v1.1.0_121
+  - first:
+      213: 6947243509084033918
+    second: apocalypse tiles TRANSPARENT v1.1.0_122
+  - first:
+      213: -2098006787762799944
+    second: apocalypse tiles TRANSPARENT v1.1.0_123
+  - first:
+      213: 4580244718912943698
+    second: apocalypse tiles TRANSPARENT v1.1.0_124
+  - first:
+      213: 5209968107335997757
+    second: apocalypse tiles TRANSPARENT v1.1.0_125
+  - first:
+      213: 8675354412175765403
+    second: apocalypse tiles TRANSPARENT v1.1.0_126
+  - first:
+      213: 4352298534165584669
+    second: apocalypse tiles TRANSPARENT v1.1.0_127
+  - first:
+      213: -3146180358752785240
+    second: apocalypse tiles TRANSPARENT v1.1.0_128
+  - first:
+      213: -975483148143591184
+    second: apocalypse tiles TRANSPARENT v1.1.0_129
+  - first:
+      213: 5621942240010246905
+    second: apocalypse tiles TRANSPARENT v1.1.0_130
+  - first:
+      213: 1895905753149912395
+    second: apocalypse tiles TRANSPARENT v1.1.0_131
+  - first:
+      213: 3046281170017267651
+    second: apocalypse tiles TRANSPARENT v1.1.0_132
+  - first:
+      213: -7677602756529831515
+    second: apocalypse tiles TRANSPARENT v1.1.0_133
+  - first:
+      213: -7081095991360610050
+    second: apocalypse tiles TRANSPARENT v1.1.0_134
+  - first:
+      213: 6032434612255973593
+    second: apocalypse tiles TRANSPARENT v1.1.0_135
+  - first:
+      213: 9010265649603340995
+    second: apocalypse tiles TRANSPARENT v1.1.0_136
+  - first:
+      213: 1022277237971832518
+    second: apocalypse tiles TRANSPARENT v1.1.0_137
+  - first:
+      213: -7134747151872940897
+    second: apocalypse tiles TRANSPARENT v1.1.0_138
+  - first:
+      213: -1976934205645163316
+    second: apocalypse tiles TRANSPARENT v1.1.0_139
+  - first:
+      213: -2039728145554066721
+    second: apocalypse tiles TRANSPARENT v1.1.0_140
+  - first:
+      213: -6464826629996060554
+    second: apocalypse tiles TRANSPARENT v1.1.0_141
+  - first:
+      213: -7410513742572903083
+    second: apocalypse tiles TRANSPARENT v1.1.0_142
+  - first:
+      213: -270879035005080896
+    second: apocalypse tiles TRANSPARENT v1.1.0_143
+  - first:
+      213: 4722575033560555747
+    second: apocalypse tiles TRANSPARENT v1.1.0_144
+  - first:
+      213: -8485721612731588717
+    second: apocalypse tiles TRANSPARENT v1.1.0_145
+  - first:
+      213: -7596288126793575832
+    second: apocalypse tiles TRANSPARENT v1.1.0_146
+  - first:
+      213: -4666018159376986056
+    second: apocalypse tiles TRANSPARENT v1.1.0_147
+  - first:
+      213: 4759758468198018251
+    second: apocalypse tiles TRANSPARENT v1.1.0_148
+  - first:
+      213: -9026424842153105730
+    second: apocalypse tiles TRANSPARENT v1.1.0_149
+  - first:
+      213: -436746170327307935
+    second: apocalypse tiles TRANSPARENT v1.1.0_150
+  - first:
+      213: 4425172915440967254
+    second: apocalypse tiles TRANSPARENT v1.1.0_151
+  - first:
+      213: 3579469710047932112
+    second: apocalypse tiles TRANSPARENT v1.1.0_152
+  - first:
+      213: -960230800550632064
+    second: apocalypse tiles TRANSPARENT v1.1.0_153
+  - first:
+      213: 1816654034831620761
+    second: apocalypse tiles TRANSPARENT v1.1.0_154
+  - first:
+      213: -1577365379598451033
+    second: apocalypse tiles TRANSPARENT v1.1.0_155
+  - first:
+      213: 5142249623186484823
+    second: apocalypse tiles TRANSPARENT v1.1.0_156
+  - first:
+      213: 6069237992372225749
+    second: apocalypse tiles TRANSPARENT v1.1.0_157
+  - first:
+      213: 5474226328868929694
+    second: apocalypse tiles TRANSPARENT v1.1.0_158
+  - first:
+      213: 7587196677318823573
+    second: apocalypse tiles TRANSPARENT v1.1.0_159
+  - first:
+      213: 9210859085596893787
+    second: apocalypse tiles TRANSPARENT v1.1.0_160
+  - first:
+      213: 5297881075819895468
+    second: apocalypse tiles TRANSPARENT v1.1.0_161
+  - first:
+      213: -6584080510303574823
+    second: apocalypse tiles TRANSPARENT v1.1.0_162
+  - first:
+      213: -7152437446941303391
+    second: apocalypse tiles TRANSPARENT v1.1.0_163
+  - first:
+      213: -4501131536728929683
+    second: apocalypse tiles TRANSPARENT v1.1.0_164
+  - first:
+      213: 5991808132657530039
+    second: apocalypse tiles TRANSPARENT v1.1.0_165
+  - first:
+      213: 7257111669930970358
+    second: apocalypse tiles TRANSPARENT v1.1.0_166
+  - first:
+      213: -2900438996014972020
+    second: apocalypse tiles TRANSPARENT v1.1.0_167
+  - first:
+      213: -2420219012921395624
+    second: apocalypse tiles TRANSPARENT v1.1.0_168
+  - first:
+      213: 367026569625435821
+    second: apocalypse tiles TRANSPARENT v1.1.0_169
+  - first:
+      213: -8312897806990130847
+    second: apocalypse tiles TRANSPARENT v1.1.0_170
+  - first:
+      213: -2659722009602950551
+    second: apocalypse tiles TRANSPARENT v1.1.0_171
+  - first:
+      213: -2157249384515059844
+    second: apocalypse tiles TRANSPARENT v1.1.0_172
+  - first:
+      213: -4310677890949559053
+    second: apocalypse tiles TRANSPARENT v1.1.0_173
+  - first:
+      213: -4410171686107622168
+    second: apocalypse tiles TRANSPARENT v1.1.0_174
+  - first:
+      213: -8722221059502875923
+    second: apocalypse tiles TRANSPARENT v1.1.0_175
+  - first:
+      213: 8356275616758825626
+    second: apocalypse tiles TRANSPARENT v1.1.0_176
+  - first:
+      213: 2899764481770974625
+    second: apocalypse tiles TRANSPARENT v1.1.0_177
+  - first:
+      213: -341758056898842007
+    second: apocalypse tiles TRANSPARENT v1.1.0_178
+  - first:
+      213: 6377433819211656670
+    second: apocalypse tiles TRANSPARENT v1.1.0_179
+  - first:
+      213: 6230178384952881970
+    second: apocalypse tiles TRANSPARENT v1.1.0_180
+  - first:
+      213: 8174780226542580958
+    second: apocalypse tiles TRANSPARENT v1.1.0_181
+  - first:
+      213: 6830230917563005442
+    second: apocalypse tiles TRANSPARENT v1.1.0_182
+  - first:
+      213: -688979005591747213
+    second: apocalypse tiles TRANSPARENT v1.1.0_183
+  - first:
+      213: -8513465529030285133
+    second: apocalypse tiles TRANSPARENT v1.1.0_184
+  - first:
+      213: 3775958647408834340
+    second: apocalypse tiles TRANSPARENT v1.1.0_185
+  - first:
+      213: -2837350439129031863
+    second: apocalypse tiles TRANSPARENT v1.1.0_186
+  - first:
+      213: 6264436374580702754
+    second: apocalypse tiles TRANSPARENT v1.1.0_187
+  - first:
+      213: -7521393950199197381
+    second: apocalypse tiles TRANSPARENT v1.1.0_188
+  - first:
+      213: -1664194910307278909
+    second: apocalypse tiles TRANSPARENT v1.1.0_189
+  - first:
+      213: -2575586503954835127
+    second: apocalypse tiles TRANSPARENT v1.1.0_190
+  - first:
+      213: 8628290567511130735
+    second: apocalypse tiles TRANSPARENT v1.1.0_191
+  - first:
+      213: 3416771729219469153
+    second: apocalypse tiles TRANSPARENT v1.1.0_192
+  - first:
+      213: -3738546045744300679
+    second: apocalypse tiles TRANSPARENT v1.1.0_193
+  - first:
+      213: -2194361761446464893
+    second: apocalypse tiles TRANSPARENT v1.1.0_194
+  - first:
+      213: -4155378017619072322
+    second: apocalypse tiles TRANSPARENT v1.1.0_195
+  - first:
+      213: 8549117276609639169
+    second: apocalypse tiles TRANSPARENT v1.1.0_196
+  - first:
+      213: 3616690547697473027
+    second: apocalypse tiles TRANSPARENT v1.1.0_197
+  - first:
+      213: -1209957444129880500
+    second: apocalypse tiles TRANSPARENT v1.1.0_198
+  - first:
+      213: -1240991818294984145
+    second: apocalypse tiles TRANSPARENT v1.1.0_199
+  - first:
+      213: 7422083207479517081
+    second: apocalypse tiles TRANSPARENT v1.1.0_200
+  - first:
+      213: 8721810165425692822
+    second: apocalypse tiles TRANSPARENT v1.1.0_201
+  - first:
+      213: 195020350624043227
+    second: apocalypse tiles TRANSPARENT v1.1.0_202
+  - first:
+      213: 2167108244647906435
+    second: apocalypse tiles TRANSPARENT v1.1.0_203
+  - first:
+      213: 3140682814285322865
+    second: apocalypse tiles TRANSPARENT v1.1.0_204
+  - first:
+      213: -1957256595110263813
+    second: apocalypse tiles TRANSPARENT v1.1.0_205
+  - first:
+      213: 4467176929625004573
+    second: apocalypse tiles TRANSPARENT v1.1.0_206
+  - first:
+      213: -6444335357337334420
+    second: apocalypse tiles TRANSPARENT v1.1.0_207
+  - first:
+      213: 1295985236704687514
+    second: apocalypse tiles TRANSPARENT v1.1.0_208
+  - first:
+      213: -767816516518792434
+    second: apocalypse tiles TRANSPARENT v1.1.0_209
+  - first:
+      213: -6038685578760392243
+    second: apocalypse tiles TRANSPARENT v1.1.0_210
+  - first:
+      213: 2806893901585132120
+    second: apocalypse tiles TRANSPARENT v1.1.0_211
+  - first:
+      213: 8785512305573300024
+    second: apocalypse tiles TRANSPARENT v1.1.0_212
+  - first:
+      213: 8900352014070987297
+    second: apocalypse tiles TRANSPARENT v1.1.0_213
+  - first:
+      213: -5523308312386498498
+    second: apocalypse tiles TRANSPARENT v1.1.0_214
+  - first:
+      213: -4614242439957245717
+    second: apocalypse tiles TRANSPARENT v1.1.0_215
+  - first:
+      213: 1369338961955642007
+    second: apocalypse tiles TRANSPARENT v1.1.0_216
+  - first:
+      213: 456231949391471168
+    second: apocalypse tiles TRANSPARENT v1.1.0_217
+  - first:
+      213: 4605496411561412741
+    second: apocalypse tiles TRANSPARENT v1.1.0_218
+  - first:
+      213: 9036357863709230623
+    second: apocalypse tiles TRANSPARENT v1.1.0_219
+  - first:
+      213: -445956608052448147
+    second: apocalypse tiles TRANSPARENT v1.1.0_220
+  - first:
+      213: -5919587802240712740
+    second: apocalypse tiles TRANSPARENT v1.1.0_221
+  - first:
+      213: -5803679027588721433
+    second: apocalypse tiles TRANSPARENT v1.1.0_222
+  - first:
+      213: -8609885017385837604
+    second: apocalypse tiles TRANSPARENT v1.1.0_223
+  - first:
+      213: -5373052024431161179
+    second: apocalypse tiles TRANSPARENT v1.1.0_224
+  - first:
+      213: -2285728592370920144
+    second: apocalypse tiles TRANSPARENT v1.1.0_225
+  - first:
+      213: 614764655524384117
+    second: apocalypse tiles TRANSPARENT v1.1.0_226
+  - first:
+      213: 1425845965061288846
+    second: apocalypse tiles TRANSPARENT v1.1.0_227
+  - first:
+      213: 5653403479955816582
+    second: apocalypse tiles TRANSPARENT v1.1.0_228
+  - first:
+      213: -8669134200062393695
+    second: apocalypse tiles TRANSPARENT v1.1.0_229
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_0
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 2059
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1385c9ed793d32560800000000000000
+      internalID: 7287901271243905073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1727
+        width: 70
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b264a3d2e8ab1f840800000000000000
+      internalID: 5256187359924995627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1727
+        width: 258
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43137fcb4f59343e0800000000000000
+      internalID: -2070646525285420748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_3
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1759
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743025404a358cd70800000000000000
+      internalID: 9063586213995348807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_4
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1911
+        width: 22
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5eaf77db83ac370800000000000000
+      internalID: 8343543646070171129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_5
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1819
+        width: 14
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68e8272a273be6f0800000000000000
+      internalID: -654368666667128724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_6
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1759
+        width: 174
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1de7be0389e34800800000000000000
+      internalID: 595576324839959836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_7
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1811
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cd0f1e32fa9da20800000000000000
+      internalID: 3087691588188560456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_8
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1795
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed7703ab4dc054e0800000000000000
+      internalID: -1994868910183711254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_9
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1727
+        width: 30
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86e23f902c7f7fa0800000000000000
+      internalID: -5800781315478198641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1727
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a413f56885c04c0800000000000000
+      internalID: -4319980608409220538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1735
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f391439e35dbc590800000000000000
+      internalID: -7652788677050788878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1727
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de880a9d93fafa2f0800000000000000
+      internalID: -959355532607452947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_13
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1727
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6d98320e64ab400800000000000000
+      internalID: 340662650302748392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_14
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1735
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbe247558a58c510800000000000000
+      internalID: 1569603998879771583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_15
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1727
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f128452cd0f0c1580800000000000000
+      internalID: -8855186215547928033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_16
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1735
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089e3f7be337f3f90800000000000000
+      internalID: -6971726984934856320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_17
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1731
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea35dbd881aec950800000000000000
+      internalID: 6471287323753790176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_18
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1727
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3398548ea1edb20800000000000000
+      internalID: 3160993573362021363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_19
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1727
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b173803cdb822440800000000000000
+      internalID: 4909640321610248631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_20
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1727
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6a7271f7fb6f510800000000000000
+      internalID: 1582662871637534419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1347
+        width: 874
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a277f2f78ea251f0800000000000000
+      internalID: -1057591063558524247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_22
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1343
+        width: 558
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2c4880a631c1270800000000000000
+      internalID: 8222468365802062571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_23
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 1535
+        width: 94
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18c321f1bfddbb90800000000000000
+      internalID: -7224372271884548065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_24
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 1543
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5539a82bd7f80110800000000000000
+      internalID: 1227503419110536541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_25
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 1491
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed53994c32beb3850800000000000000
+      internalID: 6357933837818344926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_26
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 1523
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c714d6b4024997400800000000000000
+      internalID: 322451714759016828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_27
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1371
+        width: 170
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dea6f3d0d07f0110800000000000000
+      internalID: 1229325265507102418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_28
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1343
+        width: 246
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50d1c94f07731290800000000000000
+      internalID: -7920856412068917157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_29
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 1407
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4000de9fb77b03c0800000000000000
+      internalID: -4392285346682896307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_30
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 1367
+        width: 190
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436b224dff391c630800000000000000
+      internalID: 3945597475538253364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_31
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 1367
+        width: 154
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ebd8d308c0f5ac0800000000000000
+      internalID: -3864356210332549632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_32
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1387
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46baebe8d34341f0800000000000000
+      internalID: -1061930488179280306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_33
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1383
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b01a4a1d3d540e0800000000000000
+      internalID: -2286188338457015457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_34
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 1351
+        width: 74
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d621068b18881b4b0800000000000000
+      internalID: -5426405985279274387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_35
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 1383
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec8542472799fba0800000000000000
+      internalID: -6054642029151548186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_36
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1359
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abe645570f64d820800000000000000
+      internalID: 2942098533865941927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_37
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1367
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e98006105860ab0800000000000000
+      internalID: -5042196491842052460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_38
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1359
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab69b4515b2e39000800000000000000
+      internalID: 41626088950699706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_39
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1363
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b183a9fa54969a30800000000000000
+      internalID: 4221724819162628537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_40
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1359
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3db7f8722fedd050800000000000000
+      internalID: 5827076424224718142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_41
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1355
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd88a44a28086a70800000000000000
+      internalID: 8820308847838662068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_42
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1343
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e7c580baf6dece0800000000000000
+      internalID: -1374319530907763157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_43
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1343
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96900b00c7d918a0800000000000000
+      internalID: -6333794181101611364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_44
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1087
+        width: 470
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3708a194f7f78b0800000000000000
+      internalID: -5152259496734592069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_45
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1095
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8e55a1413446e40800000000000000
+      internalID: 5648713586249689258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_46
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1087
+        width: 358
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330aac7ce9f82e8e0800000000000000
+      internalID: -1665611000054112205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_47
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1091
+        width: 210
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49cc80755b461d90800000000000000
+      internalID: -7127426529934653109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_48
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1171
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5871a388fa7b8a0800000000000000
+      internalID: -6289365354974575166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_49
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1087
+        width: 158
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d46c140026d444c0800000000000000
+      internalID: -4304079910863084327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_50
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee89197128be60c0800000000000000
+      internalID: -4580521317084066076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_51
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1103
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573e57cb03b645620800000000000000
+      internalID: 2761950328549401461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_52
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1091
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a308be9275612c40800000000000000
+      internalID: 5485777364077511584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_53
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1095
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1eb70646efbb5eb0800000000000000
+      internalID: -4729975987884278244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_54
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80639ad8d1bdb5d0800000000000000
+      internalID: -3045082228094443379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_55
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad6d2fae8e5780b0800000000000000
+      internalID: -5726504434260939359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_56
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1103
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bedaecf18d0f08f0800000000000000
+      internalID: -572223775707570508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_57
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1111
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b179d8cf7c3df63b0800000000000000
+      internalID: -5516958162616477925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_58
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561767e38a1c7b6f0800000000000000
+      internalID: -668853091294613147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_59
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57add126cffde31a0800000000000000
+      internalID: -6827773709976216971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_60
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1087
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb5270743c3bd4d0800000000000000
+      internalID: -3108824921846686789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_61
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1107
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acffdbd8f60343d00800000000000000
+      internalID: 951438676959559626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_62
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1acc09fcaa16ee0800000000000000
+      internalID: -1269545811477487159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_63
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1111
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9d1840e992c9d20800000000000000
+      internalID: 3286547586730809832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_64
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1107
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0a4ba80b39f8fe0800000000000000
+      internalID: -1184565790524530507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_65
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1107
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770055ee266d8f250800000000000000
+      internalID: 5978764225728020599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_66
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1095
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c186955c38d6ef430800000000000000
+      internalID: 3818609946775873564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_67
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1095
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcce292827c726e0800000000000000
+      internalID: -1862300945590858508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_68
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1099
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8938e5ec03d83db60800000000000000
+      internalID: 7769709022904484760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_69
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1099
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ae8306e351c7140800000000000000
+      internalID: 4718669867223935533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_70
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1099
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2ddc083377a5990800000000000000
+      internalID: -7396468374914608420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_71
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 959
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36989677ea31eb70800000000000000
+      internalID: 8926480702226601532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_72
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 959
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2a2774b9c0a6f40800000000000000
+      internalID: 5722400137585795745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_73
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 967
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec769618ebf209d0800000000000000
+      internalID: -2809406243295822622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_74
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 959
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5920fcbddb47820800000000000000
+      internalID: 2915163610584094198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_75
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 983
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b716a3783de82e140800000000000000
+      internalID: 4747513996359917947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_76
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 959
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598252c575c66be60800000000000000
+      internalID: 7977682912397306005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_77
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 959
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90edb6fcdff70ca00800000000000000
+      internalID: 774759863991131657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_78
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 63
+        width: 270
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3c7483409c800d0800000000000000
+      internalID: -3456291694045576241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_79
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 963
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d6596ae10ccfff0800000000000000
+      internalID: -914662030480040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_80
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 895
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1b40f4f28ef6b60800000000000000
+      internalID: 7741661574359986659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_81
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 959
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3797529802f39ea40800000000000000
+      internalID: 5397915037352687987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_82
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 959
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cee3bca5242b700800000000000000
+      internalID: 554578661844380758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_83
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 923
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92588ad396a3f5520800000000000000
+      internalID: 2692935325871277353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_84
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 923
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea77df06d1f007f0800000000000000
+      internalID: -648252444650276118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_85
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 951
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ac8bebc214c9730800000000000000
+      internalID: 4007149428887046765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_86
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 935
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee5dbfbdafb4fbd0800000000000000
+      internalID: -2597240332118827284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_87
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 831
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4525a30ba2d457260800000000000000
+      internalID: 7094661633732661844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_88
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 831
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f2bc9531a6f6250800000000000000
+      internalID: 5940083064868384622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_89
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 855
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7d557583bdcf040800000000000000
+      internalID: 4682858747588368343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_90
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 855
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00446688a562415f0800000000000000
+      internalID: -786961864605678592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_91
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 871
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d5532278f77fba0800000000000000
+      internalID: -6055230955605107297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_92
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 883
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8645057ff4ee65770800000000000000
+      internalID: 8599322565729604712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_93
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 895
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2593f7f00c112c0800000000000000
+      internalID: -4462574582955945243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_94
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 855
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeca07da2054e0e90800000000000000
+      internalID: -7057627688240894742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_95
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 855
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0c728a6aaa2af70800000000000000
+      internalID: 9197101021806444738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_96
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 723
+        width: 170
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4e793ebe57abf20800000000000000
+      internalID: 3439190921446941886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_97
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 843
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8bde6c107bbad50800000000000000
+      internalID: 6749689684805138610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_98
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 847
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f5db299ccc80210800000000000000
+      internalID: 1299513658618765148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_99
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 843
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cf3485096ea2f70800000000000000
+      internalID: 9163389899469225012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_100
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 791
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c0e595880046aa0800000000000000
+      internalID: -6168805003975848834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_101
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 815
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593e69414739be530800000000000000
+      internalID: 3885361230308107157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_102
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 767
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b535a3b0f3c9ef50800000000000000
+      internalID: 6911270541750252977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_103
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 799
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa6e1d7e79e10a60800000000000000
+      internalID: 7638643172471368357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_104
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 767
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9e024e2392b7af0800000000000000
+      internalID: -397678843539691024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_105
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 783
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e93fedd7cd71c310800000000000000
+      internalID: 1423557254601193955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_106
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 783
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f0f4cdb26523dd0800000000000000
+      internalID: -2507847296112193792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_107
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 639
+        width: 82
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c6ce1368582bef0800000000000000
+      internalID: -93865830811669436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_108
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 811
+        width: 110
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bbaa023f6bad580800000000000000
+      internalID: -8801521366400844931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_109
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 775
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2f475653ba2bf80800000000000000
+      internalID: -8092217334607580442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_110
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 775
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43aefda98f350a10800000000000000
+      internalID: 1874974680431895374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_111
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 767
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6aadf2e446f2cc0800000000000000
+      internalID: -3733655279093766462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_112
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 783
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc5695c922385340800000000000000
+      internalID: 4852683753481723096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_113
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 779
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2db809440336850800000000000000
+      internalID: 6368987369073005229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_114
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 767
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19a55b30373205a0800000000000000
+      internalID: -6556617427204593382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_115
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 767
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e917251a11ff78430800000000000000
+      internalID: 3785274463014252958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_116
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 775
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33853b0871bedb240800000000000000
+      internalID: 4809258463277570099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_117
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 775
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dedc179e25f51a00800000000000000
+      internalID: 726756495342755545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_118
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 711
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466cbd8860d7d7bd0800000000000000
+      internalID: -2630809140295121308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_119
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 703
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9b28ac708fc7630800000000000000
+      internalID: 3926285687506254264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_120
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 731
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56243d6ff1f0548c0800000000000000
+      internalID: -4015786862771486107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_121
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 731
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113acb430f4633770800000000000000
+      internalID: 8589319897165374225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_122
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 723
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e739717d921996060800000000000000
+      internalID: 6947243509084033918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_123
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 719
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba3a0731f162e2e0800000000000000
+      internalID: -2098006787762799944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_124
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 715
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2563a2ffd4c409f30800000000000000
+      internalID: 4580244718912943698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_125
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 719
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3950e8d3668d4840800000000000000
+      internalID: 5209968107335997757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_126
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 719
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9faa56bfdc056870800000000000000
+      internalID: 8675354412175765403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_127
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 715
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b94651578766c30800000000000000
+      internalID: 4352298534165584669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_128
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 719
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acaa3502a58654d0800000000000000
+      internalID: -3146180358752785240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_129
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 703
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0858ebe336672f0800000000000000
+      internalID: -975483148143591184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_130
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 703
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa13935ea6250e40800000000000000
+      internalID: 5621942240010246905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_131
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 715
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45be10dc3c9f4a10800000000000000
+      internalID: 1895905753149912395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_132
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 667
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf27d09590964a20800000000000000
+      internalID: 3046281170017267651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_133
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 667
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1ca7a78fca37590800000000000000
+      internalID: -7677602756529831515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_134
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 659
+        width: 322
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0228e86b4eabd90800000000000000
+      internalID: -7081095991360610050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_135
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 623
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0e942915387b350800000000000000
+      internalID: 6032434612255973593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_136
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 635
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cae280bed4ea0d70800000000000000
+      internalID: 9010265649603340995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_137
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 635
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce474f4bbbdf2e00800000000000000
+      internalID: 1022277237971832518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_138
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 627
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94226254494cfc90800000000000000
+      internalID: -7134747151872940897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_139
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 623
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4733070d48094e0800000000000000
+      internalID: -1976934205645163316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_140
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 635
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd232edfe0e61b3e0800000000000000
+      internalID: -2039728145554066721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_141
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 635
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6706990ae625846a0800000000000000
+      internalID: -6464826629996060554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_142
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 627
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555aac28301982990800000000000000
+      internalID: -7410513742572903083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_143
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 599
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0caeb6de3f4ad3cf0800000000000000
+      internalID: -270879035005080896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_144
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 619
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e06184c8f4f98140800000000000000
+      internalID: 4722575033560555747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_145
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 623
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f574a0729ac3a80800000000000000
+      internalID: -8485721612731588717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_146
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 611
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86293fe0230949690800000000000000
+      internalID: -7596288126793575832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_147
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 383
+        width: 74
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83010d6a439fe3fb0800000000000000
+      internalID: -4666018159376986056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_148
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 615
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcca999cb1f0e0240800000000000000
+      internalID: 4759758468198018251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_149
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 615
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6e3bb1e62bbb280800000000000000
+      internalID: -9026424842153105730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_150
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 607
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169e0ac0cad50f9f0800000000000000
+      internalID: -436746170327307935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_151
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 603
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ed98e225f596d30800000000000000
+      internalID: 4425172915440967254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_152
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 587
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de6da78cb4dca130800000000000000
+      internalID: 3579469710047932112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_153
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 603
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0856ac6ac239ca2f0800000000000000
+      internalID: -960230800550632064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_154
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 607
+        width: 66
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a3be9383d063910800000000000000
+      internalID: 1816654034831620761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_155
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 607
+        width: 66
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aef8046b821c1ae0800000000000000
+      internalID: -1577365379598451033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_156
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 591
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75eaa6899c0fc5740800000000000000
+      internalID: 5142249623186484823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_157
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 599
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6c6a04cc34a3450800000000000000
+      internalID: 6069237992372225749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_158
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 583
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90c258a7db58fb40800000000000000
+      internalID: 5474226328868929694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_159
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 575
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ecc98ed232b4960800000000000000
+      internalID: 7587196677318823573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_160
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 583
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52ae21898b83df70800000000000000
+      internalID: 9210859085596893787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_161
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 575
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa5282e4cad58940800000000000000
+      internalID: 5297881075819895468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_162
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 575
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d468cae8a5a0a4a0800000000000000
+      internalID: -6584080510303574823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_163
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 587
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad9cd889007dbc90800000000000000
+      internalID: -7152437446941303391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_164
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 575
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ac6f127b4c881c0800000000000000
+      internalID: -4501131536728929683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_165
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4495d20cd272350800000000000000
+      internalID: 5991808132657530039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_166
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 575
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcc39d2d9076b460800000000000000
+      internalID: 7257111669930970358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_167
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 575
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8346dda9129fb7d0800000000000000
+      internalID: -2900438996014972020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_168
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 447
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8567c2071a7a96ed0800000000000000
+      internalID: -2420219012921395624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_169
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 439
+        width: 322
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae77a178b0f71500800000000000000
+      internalID: 367026569625435821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_170
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 447
+        width: 202
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161ca38fc77a2ac80800000000000000
+      internalID: -8312897806990130847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_171
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 447
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96af3509ce4c61bd0800000000000000
+      internalID: -2659722009602950551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_172
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 447
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fbc084d19ef02e0800000000000000
+      internalID: -2157249384515059844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_173
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 447
+        width: 14
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc42d01c456d24c0800000000000000
+      internalID: -4310677890949559053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_174
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 447
+        width: 14
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4d113b73cebc2c0800000000000000
+      internalID: -4410171686107622168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_175
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 447
+        width: 14
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea56ef982274f680800000000000000
+      internalID: -8722221059502875923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_176
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 447
+        width: 6
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a920b26666477f370800000000000000
+      internalID: 8356275616758825626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_177
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 63
+        width: 86
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ade04cbe680e3820800000000000000
+      internalID: 2899764481770974625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_178
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 375
+        width: 66
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962ba63abd4d14bf0800000000000000
+      internalID: -341758056898842007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_179
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 319
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd6cacf442318850800000000000000
+      internalID: 6377433819211656670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_180
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 319
+        width: 14
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233fe627b3a067650800000000000000
+      internalID: 6230178384952881970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_181
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 319
+        width: 14
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed435ffdd47a27170800000000000000
+      internalID: 8174780226542580958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_182
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 319
+        width: 14
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20abb37d4dad9ce50800000000000000
+      internalID: 6830230917563005442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_183
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 319
+        width: 6
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375800aae314076f0800000000000000
+      internalID: -688979005591747213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_184
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 255
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8ed9625381ad980800000000000000
+      internalID: -8513465529030285133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_185
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 331
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4273e594266e66430800000000000000
+      internalID: 3775958647408834340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_186
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 255
+        width: 46
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b5a6cfec4bf98d0800000000000000
+      internalID: -2837350439129031863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_187
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 319
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e2be831bfbfe650800000000000000
+      internalID: 6264436374580702754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_188
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 319
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31da966d04ae9790800000000000000
+      internalID: -7521393950199197381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_189
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 319
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf1f1edb8797e8e0800000000000000
+      internalID: -1664194910307278909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_190
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 323
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9495b7f78bda14cd0800000000000000
+      internalID: -2575586503954835127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_191
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 275
+        width: 322
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62ca577e88ddb770800000000000000
+      internalID: 8628290567511130735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_192
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 243
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f39bee8cfca6f20800000000000000
+      internalID: 3416771729219469153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_193
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 191
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d38f6dd240e1cc0800000000000000
+      internalID: -3738546045744300679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_194
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 247
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382784caa9f0c81e0800000000000000
+      internalID: -2194361761446464893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_195
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 191
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba295885b12556c0800000000000000
+      internalID: -4155378017619072322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_196
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 191
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103f87f2ed094a670800000000000000
+      internalID: 8549117276609639169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_197
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 191
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306550e14e0113230800000000000000
+      internalID: 3616690547697473027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_198
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 63
+        width: 86
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c468c4d7d1e553fe0800000000000000
+      internalID: -1209957444129880500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_199
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 203
+        width: 6
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f228c5d248c17cee0800000000000000
+      internalID: -1240991818294984145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_200
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 215
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f55337a59800760800000000000000
+      internalID: 7422083207479517081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_201
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 191
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690e694a2281a0970800000000000000
+      internalID: 8721810165425692822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_202
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 215
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd01be2c9f9d4b200800000000000000
+      internalID: 195020350624043227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_203
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 191
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c0f08777d131e10800000000000000
+      internalID: 2167108244647906435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_204
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 191
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a96a92162f59b20800000000000000
+      internalID: 3140682814285322865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_205
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 191
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3892a2f7d66d4e0800000000000000
+      internalID: -1957256595110263813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_206
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 191
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a5e17dfb99efd30800000000000000
+      internalID: 4467176929625004573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_207
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 203
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d0b64d22f1196a0800000000000000
+      internalID: -6444335357337334420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_208
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 191
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95fee3d4b34cf110800000000000000
+      internalID: 1295985236704687514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_209
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 191
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03383042fa2855f0800000000000000
+      internalID: -767816516518792434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_210
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 191
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc176bfd577423ca0800000000000000
+      internalID: -6038685578760392243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_211
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 63
+        width: 50
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a2136c12714f620800000000000000
+      internalID: 2806893901585132120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_212
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 127
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837058fe4e86ce970800000000000000
+      internalID: 8785512305573300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_213
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 55
+        width: 322
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a32ae2007648b70800000000000000
+      internalID: 8900352014070987297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_214
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 115
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e309d378a544953b0800000000000000
+      internalID: -5523308312386498498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_215
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 115
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be011dab2fae6ffb0800000000000000
+      internalID: -4614242439957245717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_216
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 115
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ad774e78ed00310800000000000000
+      internalID: 1369338961955642007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_217
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 63
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042a9ae6a8cd45600800000000000000
+      internalID: 456231949391471168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_218
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 63
+        width: 46
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5884479d5920aef30800000000000000
+      internalID: 4605496411561412741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_219
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 79
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1642b1b997976d70800000000000000
+      internalID: 9036357863709230623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_220
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 63
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64bbc7e3d4afc9f0800000000000000
+      internalID: -445956608052448147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_221
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 63
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdff4b6d14669dda0800000000000000
+      internalID: -5919587802240712740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_222
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 63
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e490327ca0357fa0800000000000000
+      internalID: -5803679027588721433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_223
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 71
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb52cd913b838880800000000000000
+      internalID: -8609885017385837604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_224
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 71
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a05614c6a51f65b0800000000000000
+      internalID: -5373052024431161179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_225
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 71
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03517ce94f57740e0800000000000000
+      internalID: -2285728592370920144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_226
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 71
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d0ff07235188800800000000000000
+      internalID: 614764655524384117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_227
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 63
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83f6ebc95f99c310800000000000000
+      internalID: 1425845965061288846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_228
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 63
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68049b2138ce47e40800000000000000
+      internalID: 5653403479955816582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: apocalypse tiles TRANSPARENT v1.1.0_229
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a24717406c01b780800000000000000
+      internalID: -8669134200062393695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
