@@ -15,8 +15,11 @@ public class PlayerHealth : MonoBehaviour
     private int currentHealth;
     private float lastDamageTime;
 
+    private Animator anim;
+
     void Start()
     {
+        anim = GetComponent<Animator>();
         currentHealth = maxHealth;
         UpdateOverlay();
     }
@@ -28,6 +31,7 @@ public class PlayerHealth : MonoBehaviour
 
     public void TakeDamage(int amount)
     {
+        anim.SetBool("isHurt", true);
         currentHealth -= amount;
         currentHealth = Mathf.Max(currentHealth, 0);
 
@@ -35,6 +39,10 @@ public class PlayerHealth : MonoBehaviour
 
         UpdateOverlay();
         Debug.Log($"[Damage] Health: {currentHealth}");
+        if (currentHealth <= 0)
+        {
+
+        }
     }
 
     private void TryRecover()
