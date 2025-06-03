@@ -3,7 +3,7 @@ using UnityEngine.UIElements;
 
 public class PlayerController : MonoBehaviour
 {
-    public float jumpForce = 240f;
+    public float jumpForce = 5f;
     private Rigidbody2D rb;
     private Animator anim;
     private bool isGrounded = true;
